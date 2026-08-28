@@ -12,6 +12,7 @@
       <img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=24&duration=2400&pause=900&color=171E19&center=true&vCenter=true&width=560&lines=Human+judgment+%2B+AI+workflow;Product+thinking+%2B+experience+system;From+messy+ideas+to+living+systems" />
       <br />
       <br />
+<table>
 
 ## 🟡 我关注的是
 

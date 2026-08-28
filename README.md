@@ -13,6 +13,28 @@
 </div>
 
 ---
+<table>
+  <tr>
+    <td width="30%" valign="middle">
+      <h1>Goood</h1>
+      <strong>Product thinking + experience system</strong>
+      <br />
+      <sub>AI / EXPERIENCE / LIVING SYSTEMS</sub>
+    </td>
+    <td width="2%" align="center" valign="middle">
+      <img src="https://dummyimage.com/2x118/D0D7DE/D0D7DE.png" width="2" height="118" alt="" />
+    </td>
+    <td width="68%" align="center" valign="middle">
+      <img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=24&duration=2400&pause=900&color=171E19&center=true&vCenter=true&width=560&lines=Human+judgment+%2B+AI+workflow;Product+thinking+%2B+experience+system;From+messy+ideas+to+living+systems" />
+      <br />
+      <br />
+      <a href="https://goood.ink"><img alt="goood.ink" src="https://img.shields.io/badge/GOOOD.INK-171E19?style=for-the-badge&labelColor=FFE17C&color=171E19" /></a>
+      <img alt="Product Studio" src="https://img.shields.io/badge/PRODUCT%20STUDIO-B7C6C2?style=for-the-badge&labelColor=171E19&color=B7C6C2" />
+      <img alt="AI Builder" src="https://img.shields.io/badge/AI%20BUILDER-FFE17C?style=for-the-badge&labelColor=171E19&color=FFE17C" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🟡 我关注的是
 

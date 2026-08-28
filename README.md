@@ -3,9 +3,6 @@
     <td width="33%" align="center" valign="middle">
       <img alt="Goood" src="https://readme-typing-svg.demolab.com?font=Anton&size=58&duration=1800&pause=999999&color=171E19&center=true&vCenter=true&width=260&height=140&lines=Goood" />
     </td>
-    <td width="2%" align="center" valign="middle">
-      <img src="https://dummyimage.com/2x150/D0D7DE/D0D7DE.png" width="2" height="150" alt="" />
-    </td>
     <td width="65%" align="left" valign="middle">
       <img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=30&duration=3000&pause=1500&color=171E19&vCenter=true&width=560&height=56&lines=Product+thinking+%2B+experience+system;Human+judgment+%2B+AI+workflow;From+messy+ideas+to+living+systems" />
       <br />

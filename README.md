@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<a href="https://goood.ink">
-  <img width="100%" alt="GOOOD Product Studio" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=FFE17C&text=GOOOD&fontColor=171E19&fontSize=86&fontAlignY=42&desc=PRODUCT%20STUDIO%20FOR%20AI%20%2F%20EXPERIENCE%20%2F%20LIVING%20SYSTEMS&descSize=16&descAlignY=68&animation=fadeIn" />
-</a>
-
-<br />
-
 <img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=24&duration=2400&pause=900&color=171E19&center=true&vCenter=true&width=760&lines=Human+judgment+%2B+AI+workflow;Product+thinking+%2B+experience+system;From+messy+ideas+to+living+systems" />
 
 <br />

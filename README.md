@@ -1,85 +1,91 @@
-# Goood
 
-<div align="center">
-
-![Goood](https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111111,100:333333&text=GOOOD&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Product%20Studio%20for%20AI%20%2F%20Education%20%2F%20Experience%20Systems&descSize=14&descAlignY=72&animation=fadeIn)
-
-**我关注的是：如何把人的判断力、复杂的场景、AI 能力和产品体验，整理成可以被理解、被验证、被持续生长的系统。**
-
-[![Website](https://img.shields.io/badge/Website-goood.ink-111111?style=flat-square)](https://goood.ink)
-![Focus](https://img.shields.io/badge/Focus-AI%20Product-111111?style=flat-square)
-![Studio](https://img.shields.io/badge/Studio-Goood-111111?style=flat-square)
-
-</div>
 
 ---
 
-### 我在整理的方向
+### ✨ Goood 是什么
+### ✨ 你好，这里是 Goood
 
-**AI 产品不是把功能堆满，而是把判断过程变清楚。**
+Goood 是我的个人工作室入口。
 
-Goood 关注 AI 在真实业务和教育场景里的落地方式：它如何理解人的目标，如何承接复杂流程，如何在不确定信息里给出可验证的建议，以及如何把结果回到人的工作闭环中。
 
-**教育场景不是单点工具，而是一组持续联动的系统。**
+### 🧩 我的能力组合
 
-我长期关注教学、学习、评价、资源、实训和管理之间的关系。好的产品不只是让一个页面更好用，而是让角色、流程、数据和反馈能够形成清晰的协作结构。
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 产品判断</h3>
+      <p>问题定义、方案取舍、MVP 边界、PRD 结构、路线图拆解。</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI 应用设计</h3>
+      <p>场景拆解、Prompt 工作流、Agent 协作、知识库/RAG、AI 质量评测。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎨 体验系统</h3>
+      <p>信息架构、交互流程、界面叙事、设计系统、复杂任务的理解成本控制。</p>
+    </td>
+    <td width="50%">
+      <h3>🛠️ 原型落地</h3>
+      <p>把想法做成可操作原型、演示页面、产品说明、流程图和可复用模板。</p>
+    </td>
+  </tr>
+</table>
+#### 🧠 产品判断
 
-**体验设计不是装饰，而是降低理解成本的产品能力。**
+我会先把问题讲清楚，再进入方案。关注问题定义、方案取舍、MVP 边界、PRD 结构和路线图拆解。
 
-我喜欢把抽象问题拆成可讨论的结构、可操作的流程和可验证的原型。界面、文案、信息架构、交互节奏和评测指标，都是产品判断的一部分。
+#### 🤖 AI 应用设计
 
----
+我关注 AI 如何进入真实工作流，而不是只停留在一次性生成。包括场景拆解、Prompt 工作流、Agent 协作、知识库/RAG 和 AI 质量评测。
 
-### 我如何工作
+#### 🎨 体验系统
 
-```text
-Signal  ->  Structure  ->  Prototype  ->  Evaluation  ->  Iteration
-问题信号 -> 结构建模     -> 原型表达     -> 质量评测       -> 持续迭代
-```
+我喜欢把复杂信息变得更容易理解。关注信息架构、交互流程、界面叙事、设计系统，以及复杂任务里的理解成本控制。
 
-- 从政策、业务、用户反馈和现场流程里识别真正的问题信号。
-- 把复杂场景拆成角色、任务、数据、权限、状态和反馈闭环。
-- 用原型、PRD、流程图和交互稿把想法变成可讨论的对象。
-- 用数据、评测和人工确认机制判断 AI 输出是否可信。
-- 在真实约束里推进产品，而不是停留在概念演示。
+#### 🛠️ 原型落地
 
----
-
-### Goood 的关键词
-
-`AI Product` · `Education Technology` · `Product Strategy` · `Experience Design` · `Prototype` · `Knowledge System` · `Evaluation` · `Human-in-the-loop`
-
----
-
-### 现在的工作台
-
-我正在把 Goood 作为一个个人工作室入口来整理：
-
-- 记录 AI 产品、教育数字化、产品体验系统相关的思考。
-- 沉淀可复用的需求分析、原型设计和 AI 应用落地方法。
-- 探索如何让 AI 从“生成内容的工具”变成“辅助判断和协作的系统”。
-
-更多内容会逐步整理到个人网站：
-
-**[goood.ink](https://goood.ink)**
+我会把想法推进到可操作、可展示、可讨论的程度。常见输出包括交互原型、演示页面、产品说明、流程图和可复用模板。
 
 ---
 
-### 一些相信
+### 🌈 我如何工作
 
-**人的判断力仍然是产品的核心。**  
-AI 可以生成很多内容，但什么值得做、为什么做、做到什么程度，仍然需要人的判断。
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#FFF2A8", "primaryTextColor": "#111111", "primaryBorderColor": "#111111", "lineColor": "#FF5BA7", "secondaryColor": "#D8FFF5", "tertiaryColor": "#F1E4FF"}}}%%
+flowchart LR
+flowchart TD
+  A["🧩 复杂场景"] --> B["🧠 判断结构"]
+  B --> C["🎨 体验原型"]
+  C --> D["🤖 AI 工作流"]
 
-**复杂系统需要被看见。**  
-当角色、流程、数据和反馈被清楚地呈现出来，团队才更容易协作，产品也更容易迭代。
+### 🧪 我正在沉淀
 
-**做出来，才会暴露真正的问题。**  
-好的原型不是展示效果，而是让问题更早发生、让判断更快形成。
+| 方向 | 我想留下的东西 |
+| --- | --- |
+| 🧭 Product Thinking | 把模糊需求变成清晰问题、范围和验证路径的方法 |
+| 🤖 AI Workflow | 让 AI 进入真实工作流程，而不是停在一次性生成 |
+| 🎨 Experience System | 让复杂信息更容易理解、协作和迭代的体验结构 |
+| 🕹️ Prototype Craft | 能快速表达想法、承接讨论、推动决策的可交互原型 |
+#### 🧭 Product Thinking
+
+把模糊需求变成清晰问题、范围和验证路径的方法。
+
+#### 🤖 AI Workflow
+
+让 AI 进入真实工作流程，而不是停在一次性生成。
+
+#### 🎨 Experience System
+
+让复杂信息更容易理解、协作和迭代的体验结构。
+
+#### 🕹️ Prototype Craft
+
+能快速表达想法、承接讨论、推动决策的可交互原型。
 
 ---
 
-<div align="center">
-
-![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=111111&center=true&vCenter=true&width=720&lines=Human+judgment+as+product+method;AI+capability+as+working+system;Experience+design+as+understanding+structure)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2600&pause=900&color=FF5BA7&center=true&vCenter=true&width=760&lines=Think+in+systems.;Prototype+before+over-explaining.;Make+AI+work+with+human+judgment.;Turn+messy+ideas+into+living+systems.)
 
 </div>

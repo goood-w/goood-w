@@ -1,13 +1,13 @@
 <table>
   <tr>
-    <td width="32%" valign="middle">
-      <img alt="Goood" src="https://readme-typing-svg.demolab.com?font=Anton&size=24&duration=999999&pause=999999&color=171E19&vCenter=true&width=220&height=42&lines=Goood" />
+    <td width="34%" valign="middle">
+      <img alt="Goood" src="https://readme-typing-svg.demolab.com?font=Anton&size=56&duration=1800&pause=999999&color=171E19&vCenter=true&width=260&height=88&lines=Goood" />
     </td>
     <td width="2%" align="center" valign="middle">
-      <img src="https://dummyimage.com/2x118/D0D7DE/D0D7DE.png" width="2" height="118" alt="" />
+      <img src="https://dummyimage.com/2x160/D0D7DE/D0D7DE.png" width="2" height="160" alt="" />
     </td>
-    <td width="66%" align="left" valign="middle">
-      <img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=24&duration=2400&pause=900&color=171E19&vCenter=true&width=560&lines=Human+judgment+%2B+AI+workflow;Product+thinking+%2B+experience+system;From+messy+ideas+to+living+systems" />
+    <td width="64%" align="left" valign="middle">
+      <img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=30&duration=2400&pause=900&color=171E19&vCenter=true&width=560&height=58&lines=Product+thinking+%2B+experience+system;Human+judgment+%2B+AI+workflow;From+messy+ideas+to+living+systems" />
       <br />
       <br />
       <a href="https://goood.ink"><img alt="goood.ink" src="https://img.shields.io/badge/GOOOD.INK-171E19?style=for-the-badge&labelColor=FFE17C&color=171E19" /></a>

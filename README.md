@@ -1,71 +1,87 @@
 # Goood
 
-<p>
-  <a href="https://goood.ink">
-    <img src="./assets/hero-editorial.svg" alt="GOOOD Product Studio" width="100%" />
-  </a>
-</p>
+<div align="center">
 
-<p>
-  <img src="./assets/marquee-editorial.svg" alt="Product Judgment, AI Workflow, Experience System, Prototype Craft" width="100%" />
-</p>
+<a href="https://goood.ink">
+  <img width="100%" alt="GOOOD Product Studio" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=FFE17C&text=GOOOD&fontColor=171E19&fontSize=86&fontAlignY=42&desc=PRODUCT%20STUDIO%20FOR%20AI%20%2F%20EXPERIENCE%20%2F%20LIVING%20SYSTEMS&descSize=16&descAlignY=68&animation=fadeIn" />
+</a>
 
-## About
+<br />
 
-**Goood 是一个关于产品判断、AI 工作流和体验原型的个人工作室。**
+<img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=24&duration=2400&pause=900&color=171E19&center=true&vCenter=true&width=760&lines=Human+judgment+%2B+AI+workflow;Product+thinking+%2B+experience+system;From+messy+ideas+to+living+systems" />
 
-我关注的是：如何把人的判断力、复杂的场景、AI 能力和产品体验，整理成可以被理解、被验证、被持续生长的系统。
+<br />
 
+[![goood.ink](https://img.shields.io/badge/GOOOD.INK-171E19?style=for-the-badge&labelColor=FFE17C&color=171E19)](https://goood.ink)
+![Product Studio](https://img.shields.io/badge/PRODUCT%20STUDIO-B7C6C2?style=for-the-badge&labelColor=171E19&color=B7C6C2)
+![AI Builder](https://img.shields.io/badge/AI%20BUILDER-FFE17C?style=for-the-badge&labelColor=171E19&color=FFE17C)
+
+</div>
+
+---
+
+## 🟡 我关注的是
+
+**如何把人的判断力、复杂的场景、AI 能力和产品体验，整理成可以被理解、被验证、被持续生长的系统。**
+
+这里是 Goood 的个人工作室入口。  
 我会把模糊的想法、分散的信息和复杂的流程，整理成更清楚的产品结构、AI 工作流和可交互原型。
 
-[goood.ink](https://goood.ink)
+---
 
-## Capability
+## 🧩 我能做什么
 
-### 01 / 产品判断
+### 🧠 产品判断
 
-把需求从“想做什么”推进到“为什么做、先做什么、做到什么程度”。
+把需求从“想做什么”推进到“为什么做、先做什么、做到什么程度”。  
+关注问题定义、方案取舍、MVP 边界、PRD 结构和路线图拆解。
 
-我关注问题定义、方案取舍、MVP 边界、PRD 结构和路线图拆解，也关注一个想法到底值不值得被继续推进。
+### 🤖 AI 应用与工作流
 
-### 02 / AI 应用与工作流
+让 AI 进入真实工作流程，而不是停在一次性生成。  
+关注 Prompt 工作流、Agent 协作、知识库/RAG、质量评测和人机确认边界。
 
-让 AI 进入真实工作流程，而不是停在一次性生成。
+### 🎨 体验与原型
 
-我关注 Prompt 工作流、Agent 协作、知识库/RAG、质量评测和人机确认边界，让 AI 输出能够被使用、被检查、被迭代。
+把复杂信息变得更容易理解、协作和迭代。  
+关注信息架构、交互流程、界面叙事、设计系统、演示页面和可操作原型。
 
-### 03 / 体验与原型
+---
 
-把复杂信息变得更容易理解、协作和迭代。
+## ⚡ 工作方式
 
-我关注信息架构、交互流程、界面叙事、设计系统、演示页面和可操作原型，让想法尽早变成可以讨论的版本。
+![01 Signal](https://img.shields.io/badge/01-SIGNAL-FFE17C?style=flat-square&labelColor=171E19&color=FFE17C)
+识别真正的问题信号。
 
-## Working Style
+![02 Structure](https://img.shields.io/badge/02-STRUCTURE-B7C6C2?style=flat-square&labelColor=171E19&color=B7C6C2)
+拆解角色、任务、数据、状态和反馈。
 
-**Signal**  
-识别真正的问题信号，而不是只响应表面的功能需求。
+![03 Prototype](https://img.shields.io/badge/03-PROTOTYPE-FFFFFF?style=flat-square&labelColor=171E19&color=FFFFFF)
+把想法做成可以讨论的版本。
 
-**Structure**  
-拆解角色、任务、数据、状态和反馈，找到影响体验和决策的关键结构。
+![04 Evaluate](https://img.shields.io/badge/04-EVALUATE-FFE17C?style=flat-square&labelColor=171E19&color=FFE17C)
+用反馈、评测和人工确认校准结果。
 
-**Prototype**  
-用原型、流程图、PRD 或演示页面，把想法变成可以被看见和讨论的对象。
-
-**Evaluate**  
-用反馈、评测和人工确认校准结果，让 AI 输出和产品方案更可信。
-
-**Iterate**  
+![05 Iterate](https://img.shields.io/badge/05-ITERATE-171E19?style=flat-square&labelColor=FFE17C&color=171E19)
 持续修正，直到它真的帮助人工作。
 
-## I Like Making
+---
+
+## 🪄 我喜欢的输出物
 
 `一页能讲清楚的方案`  
 `能点开的原型`  
+`可复用的 Prompt`  
+`结构清楚的 PRD`  
 `有判断依据的产品分析`  
 `从想法长出来的小工具`
 
-<p>
-  <a href="https://goood.ink">
-    <img src="./assets/footer-editorial.svg" alt="MAKE IT USEFUL." width="100%" />
-  </a>
-</p>
+---
+
+<div align="center">
+
+<a href="https://goood.ink">
+  <img width="100%" alt="Visit goood.ink" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=171E19&text=VISIT%20GOOOD.INK&fontColor=FFE17C&fontSize=34&fontAlignY=39&desc=Visual%20experiments%20%2F%20Product%20notes%20%2F%20AI%20workflows&descSize=15&descAlignY=70&animation=twinkling" />
+</a>
+
+</div>

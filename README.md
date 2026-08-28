@@ -1,23 +1,32 @@
 <table>
   <tr>
-    <td width="32%" valign="middle">
-      <img alt="Goood" src="https://readme-typing-svg.demolab.com?font=Anton&size=38&duration=999999&pause=999999&color=171E19&vCenter=true&width=220&height=58&lines=Goood" />
+    <td width="30%" valign="middle">
+      <h1>Goood</h1>
+      <strong>Product thinking + experience system</strong>
       <br />
       <sub>AI / EXPERIENCE / LIVING SYSTEMS</sub>
     </td>
     <td width="2%" align="center" valign="middle">
       <img src="https://dummyimage.com/2x118/D0D7DE/D0D7DE.png" width="2" height="118" alt="" />
     </td>
-    <td width="66%" align="center" valign="middle">
+    <td width="68%" align="center" valign="middle">
       <img alt="Goood typing line" src="https://readme-typing-svg.demolab.com?font=Anton&size=24&duration=2400&pause=900&color=171E19&center=true&vCenter=true&width=560&lines=Human+judgment+%2B+AI+workflow;Product+thinking+%2B+experience+system;From+messy+ideas+to+living+systems" />
       <br />
       <br />
-<table>
+      <a href="https://goood.ink"><img alt="goood.ink" src="https://img.shields.io/badge/GOOOD.INK-171E19?style=for-the-badge&labelColor=FFE17C&color=171E19" /></a>
+      <img alt="Product Studio" src="https://img.shields.io/badge/PRODUCT%20STUDIO-B7C6C2?style=for-the-badge&labelColor=171E19&color=B7C6C2" />
+      <img alt="AI Builder" src="https://img.shields.io/badge/AI%20BUILDER-FFE17C?style=for-the-badge&labelColor=171E19&color=FFE17C" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🟡 我关注的是
 
 **如何把人的判断力、复杂的场景、AI 能力和产品体验，整理成可以被理解、被验证、被持续生长的系统。**
 
+这里是 Goood 的个人工作室入口。  
 我会把模糊的想法、分散的信息和复杂的流程，整理成更清楚的产品结构、AI 工作流和可交互原型。
 
 ---
@@ -74,7 +83,7 @@
 <div align="center">
 
 <a href="https://goood.ink">
-   <img width="100%" alt="Visit goood.ink" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:FFE17C,24:FFE17C,25:B7C6C2,49:B7C6C2,50:FFFFFF,74:FFFFFF,75:FFE17C,89:FFE17C,90:171E19,100:171E19&text=VISIT%20GOOOD.INK&fontColor=171E19&fontSize=34&fontAlignY=39&desc=Visual%20experiments%20%2F%20Product%20notes%20%2F%20AI%20workflows&descSize=15&descAlignY=70&animation=twinkling" />
+  <img width="100%" alt="Visit goood.ink" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:FFE17C,24:FFE17C,25:B7C6C2,49:B7C6C2,50:FFFFFF,74:FFFFFF,75:FFE17C,89:FFE17C,90:171E19,100:171E19&text=VISIT%20GOOOD.INK&fontColor=171E19&fontSize=34&fontAlignY=39&desc=Visual%20experiments%20%2F%20Product%20notes%20%2F%20AI%20workflows&descSize=15&descAlignY=70&animation=twinkling" />
 </a>
 
 </div>
